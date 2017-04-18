@@ -1,17 +1,15 @@
-# The Meteor Chef - Base
-A starting point for Meteor apps.
+#### Tutorial: Getting Started with React Router v4
 
-<table>
-  <tbody>
-    <tr>
-      <th>Base Version</th>
-      <td>v4.14.0</td>
-    </tr>
-    <tr>
-      <th>Meteor Version</th>
-      <td>v1.4.3.2</td>
-    </tr>
-  </tbody>
-</table>
+In this tutorial, we'll take a brief look at sending email with Meteor. We'll learn how to wire up a form on the client and then perform a send from the server-side using a Meteor Method.
 
-[Read the Documentation](http://themeteorchef.com/base)
+[Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/using-the-email-package)  
+
+[Download the source (.zip)](https://github.com/themeteorchef/using-the-email-package/archive/master.zip)
+
+---
+
+**Need help with this?** [Sign up for a Mentorship appointment](https://themeteorchef.com/mentorship?readme=using-the-email-package) and get 1-on-1 help.
+
+---
+
+_The code for this tutorial is licensed under the [MIT License](http://opensource.org/licenses/MIT)_.
