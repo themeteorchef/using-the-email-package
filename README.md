@@ -1,4 +1,4 @@
-#### Tutorial: Getting Started with React Router v4
+#### Tutorial: Using the Email Package
 
 In this tutorial, we'll take a brief look at sending email with Meteor. We'll learn how to wire up a form on the client and then perform a send from the server-side using a Meteor Method.
 
