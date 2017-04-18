@@ -1,6 +1,6 @@
 #### Tutorial: Using the Email Package
 
-Works. In this tutorial, we'll take a brief look at sending email with Meteor. We'll learn how to wire up a form on the client and then perform a send from the server-side using a Meteor Method.
+Works.In this tutorial, we'll take a brief look at sending email with Meteor. We'll learn how to wire up a form on the client and then perform a send from the server-side using a Meteor Method.
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/using-the-email-package)  
 
